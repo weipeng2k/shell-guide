@@ -1,0 +1,4 @@
+#!/bin/bash
+VARIABLE="Go!"
+echo 本地变量：VARIABLE:$VARIABLE
+echo 环境变量：OPENJDK_JAVA_17_HOME:${OPENJDK_JAVA_17_HOME}
